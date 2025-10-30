@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // كلمة السر الصحيحة
     
-    const correctPassword = 'vip10';
+    const correctPassword = 'mkomko';
    
     // رابط الصفحة الجديدة (يمكنك تغييره حسب احتياجك)
     const newPageURL = 'gamir/index.html'; // أو 'main.html' أو أي صفحة تريدها
